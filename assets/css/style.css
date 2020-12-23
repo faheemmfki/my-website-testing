@@ -1165,7 +1165,7 @@ section {
 .pricing .box {
   padding: 20px;
   background: #f9f9f9;
-  text-align: center;
+  text-align: left;
   border-radius: 8px;
   position: relative;
   overflow: hidden;
@@ -1203,9 +1203,9 @@ section {
 
 .pricing .box ul {
   padding: 0;
-  list-style: none;
+  
   color: #222222;
-  text-align: center;
+  text-align: left;
   line-height: 20px;
   font-size: 14px;
 }
